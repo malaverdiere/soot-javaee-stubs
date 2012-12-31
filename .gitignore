@@ -4,3 +4,11 @@
 *.jar
 *.war
 *.ear
+
+# Temporary Eclipse files #
+*/.classpath
+*/.project
+*/.settings
+
+# Maven output #
+*/target
